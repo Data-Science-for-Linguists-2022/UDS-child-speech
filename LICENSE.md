@@ -1,0 +1,4 @@
+# LICENSE
+---
+
+Placeholder for now
