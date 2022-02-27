@@ -1,0 +1,311 @@
+@UTF8
+@PID:	11312/c-00025428-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Andy Target_Child , RES Deborah Investigator , XXX
+	Unidentified
+@ID:	eng|Hicks|CHI|7;11.|male|||Target_Child|||
+@ID:	eng|Hicks|RES|||||Investigator|||
+@ID:	eng|Hicks|XXX|||||Unidentified|||
+@Comment:	School is CFS
+@Comment:	Grade is second
+@Comment:	Task is eventcast
+@Date:	09-OCT-1987
+@Types:	cross, narrative, TD
+*RES:	this is again Deborah and Andy .
+%mor:	pro:dem|this cop|be&3S adv|again n:prop|Deborah coord|and
+	n:prop|Andy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PRED 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*RES:	and we're gonna be sportscasters .
+%mor:	coord|and pro:sub|we~aux|be&PRES part|go-PRESP~inf|to cop|be
+	n|+n|sports+n|caster-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|PRED 8|4|PUNCT
+*RES:	and tell what's happening in the movie .
+%mor:	coord|and v|tell pro:int|what~aux|be&3S part|happen-PRESP prep|in
+	det:art|the n|movie .
+%gra:	1|2|LINK 2|0|ROOT 3|5|LINK 4|5|AUX 5|2|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*RES:	and I'm gonna start .
+%mor:	coord|and pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|start .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*RES:	so the little boy is passing a bakery shop .
+%mor:	co|so det:art|the adj|little n|boy aux|be&3S part|pass-PRESP
+	det:art|a n|bakery n|shop .
+%gra:	1|6|COM 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|6|PUNCT
+*RES:	and he sees something .
+%mor:	coord|and pro:sub|he v|see-3S pro:indef|something .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*RES:	he wants to eat .
+%mor:	pro:sub|he v|want-3S inf|to v|eat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|2|PUNCT
+*RES:	so he's checking in his pocket .
+%mor:	adv|so pro:sub|he~aux|be&3S part|check-PRESP prep|in det:poss|his
+	n|pocket .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*RES:	to see if he has any money .
+%mor:	inf|to v|see conj|if pro:sub|he v|have&3S qn|any n|money .
+%gra:	1|2|INF 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|7|QUANT 7|5|OBJ 8|2|PUNCT
+*RES:	and he's walking into the bakery shop .
+%mor:	coord|and pro:sub|he~aux|be&3S part|walk-PRESP prep|into
+	det:art|the n|bakery n|shop .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*RES:	do you wanna take over .
+%mor:	mod|do pro:per|you v|want~inf|to v|take adv|over .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|3|PUNCT
+*RES:	being a sportscaster ?
+%mor:	n:gerund|be-PRESP det:art|a n|+n|sports+n|caster ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*XXX:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	he's letting his balloon go .
+%mor:	pro:sub|he~aux|be&3S part|let-PRESP det:poss|his n|balloon v|go .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+%cod:	$ind $pr $pg $pro:pas $np:bal
+*CHI:	he's going in .
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP adv|in .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%cod:	$mc $pr $pg $pro:pas
+*CHI:	to buy something .
+%mor:	inf|to v|buy pro:indef|something .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$sadv $inf $l:pur $emp:pas
+*CHI:	here comes the nasty boys .
+%mor:	adv|here v|come-3S det:art|the adj|nasty n|boy-PL .
+%gra:	1|2|JCT 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%cod:	$ind $pr $dei $npap:kds
+*CHI:	they're looking at (h)im .
+%mor:	pro:sub|they~aux|be&PRES part|look-PRESP prep|at pro:obj|him .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%cod:	$ind $pr $pg $pro:kds $pro:pas
+*CHI:	one kid sees .
+%mor:	det:num|one n|kid v|see-3S .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$mc $pr $np:pkd
+*CHI:	the balloon go off .
+%mor:	det:art|the n|balloon v|go adv|off .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%cod:	$cmp $inf $np:bal
+*CHI:	and they grab it .
+%mor:	coord|and pro:sub|they v|grab pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$ind $pr $pro:kds $pro:bal
+*CHI:	and start running .
+%mor:	coord|and v|start part|run-PRESP .
+%gra:	1|2|LINK 2|0|ROOT 3|2|COMP 4|2|PUNCT
+%cod:	$ind $pr $pg $a:v $zero:kds
+*CHI:	he comes out of the bakery shop .
+%mor:	pro:sub|he v|come-3S adv|out prep|of det:art|the n|bakery n|shop .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|2|PUNCT
+%cod:	$ind $pr $pro:pas
+*CHI:	+" where's my balloon ?
+%mor:	pro:int|where~cop|be&3S det:poss|my n|balloon ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$dia $qes $pro:pas $np:bal
+*CHI:	he says .
+%mor:	pro:sub|he v|say-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%cod:	$mc $pr $pro:pas
+*CHI:	he's looking around .
+%mor:	pro:sub|he~aux|be&3S part|look-PRESP adv|around .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%cod:	$ind $pr $pg $pro:pas
+*CHI:	there they go .
+%mor:	adv|there pro:sub|they v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$ind $pr $dei $pro:kds $note $p
+*CHI:	there he comes .
+%mor:	adv|there pro:sub|he v|come-3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$ind $pr $p $dei $pro:pas $note
+*RES:	can you say everything they're doing .
+%mor:	mod|can pro:per|you v|say pro:indef|everything
+	pro:sub|they~aux|be&PRES part|do-PRESP .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|SUBJ 6|7|AUX 7|4|CMOD 8|3|PUNCT
+*RES:	that you see happening ?
+%mor:	comp|that pro:per|you v|see n:gerund|happen-PRESP ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	he's trying to find his balloon .
+%mor:	pro:sub|he~aux|be&3S part|try-PRESP inf|to v|find det:poss|his
+	n|balloon .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+%cod:	$ind $pr $pg $modv $pro:pas $np:bal
+*CHI:	there goes the boys over the wall [//] the dump I think .
+%mor:	adv|there v|go-3S det:art|the n|boy-PL prep|over det:art|the
+	det:art|the n|dump pro:sub|I v|think .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|8|DET 7|8|DET 8|5|POBJ
+	9|10|SUBJ 10|2|CJCT 11|2|PUNCT
+%cod:	$ind $pr $dei $np:kds
+*CHI:	he's down on the sand dunes [//] or something .
+%mor:	pro:sub|he~cop|be&3S adv|down prep|on det:art|the n|sand coord|or
+	pro:indef|something .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|6|CONJ 8|7|COORD
+	9|2|PUNCT
+%cod:	$ind $pr $pro:pas
+*CHI:	now they're fighting .
+%mor:	adv|now pro:sub|they~aux|be&PRES part|fight-PRESP .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%cod:	$ind $pr $pg $pro:kds
+*CHI:	and shooting at the balloon .
+%mor:	coord|and part|shoot-PRESP prep|at det:art|the n|balloon .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%cod:	$ind $pr $pg $zero:kds $np:bal
+*CHI:	but the balloon is surviving .
+%mor:	conj|but det:art|the n|balloon aux|be&3S part|survive-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%cod:	$ind $pr $pg $l:tr $np:bal
+*CHI:	there's the boy .
+%mor:	pro:exist|there~cop|be&3S det:art|the n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$ind $pr $dei $np:pas
+*CHI:	he sees the balloon .
+%mor:	pro:sub|he v|see-3S det:art|the n|balloon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$ind $pr $pro:pas $np:bal
+*RES:	he's calling +"/.
+%mor:	pro:sub|he~aux|be&3S part|call-PRESP +"/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*RES:	+" ballon@s:fra balloon [>] .
+%mor:	L2|ballon n|balloon .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	he's calling [/] he's calling .
+%mor:	pro:sub|he~cop|be&3S pro:sub|he~aux|be&3S part|call-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|PRED 6|2|PUNCT
+%cod:	$ind $pr $pg $pro:pas
+*CHI:	he's [//] they're still trying (.) to shoot [//] get it with a
+	slingshot .
+%mor:	pro:sub|they~aux|be&PRES adv|still part|try-PRESP inf|to v|get
+	pro:per|it prep|with det:art|a n|+n|sling+n|shot .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+%cod:	$ind $pr $pg $modv $a:adv $pro:kds $pro:bal
+*CHI:	he's trying the door .
+%mor:	pro:sub|he~aux|be&3S part|try-PRESP det:art|the n|door .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$ind $pr $pg $modv $pro:pas
+*CHI:	0it won't open .
+%mor:	0pro:per|it mod|will~neg|not v|open .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%cod:	$ind $pr $mod $neg
+*CHI:	and he's looking in the keyhole .
+%mor:	coord|and pro:sub|he~aux|be&3S part|look-PRESP prep|in det:art|the
+	n|+n|key+n|hole .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%cod:	$ind $pr $pg $pro:pas
+*CHI:	there it goes .
+%mor:	adv|there pro:per|it v|go-3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$ind $pr $dei $p $pro:bal $note
+*CHI:	he has it .
+%mor:	pro:sub|he aux|have&3S pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%cod:	$ind $pr $pro:pas $pro:bal $p $note
+*CHI:	not quite yet [% with a sing-song intonation] .
+%mor:	neg|not adv|quite adv|yet .
+%gra:	1|2|NEG 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%cod:	$ind $a:adv $p $note
+*CHI:	there he goes o:ver a bit .
+%mor:	adv|there pro:sub|he v|go-3S adv|over det:art|a n|bit .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%cod:	$ind $pr $dei $pro:pas
+*CHI:	it breaks [% very stacatto] .
+%mor:	pro:per|it v|break-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%cod:	$ind $pr
+*CHI:	there he goes .
+%mor:	adv|there pro:sub|he v|go-3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$ind $pr $dei $pro:pas
+*CHI:	there they go .
+%mor:	adv|there pro:sub|they v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$mc $pr $dei $pro:kds
+*CHI:	climbing over the fence [//] the stone wall .
+%mor:	part|climb-PRESP prep|over det:art|the det:art|the n|stone n|wall .
+%gra:	1|0|INCROOT 2|1|JCT 3|6|DET 4|6|DET 5|6|MOD 6|2|POBJ 7|1|PUNCT
+%cod:	$sadv $pg $emp:kds
+*RES:	(..) what's happening here ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP adv|here ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	they're chasing him down the alleyway .
+%mor:	pro:sub|they~aux|be&PRES part|chase-PRESP pro:obj|him adv|down
+	det:art|the n|+n|alley+n|way .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%cod:	$ind $pr $pg $pro:kds $pro:pas
+*CHI:	there he goes past a dog .
+%mor:	adv|there pro:sub|he v|go-3S adj|past det:art|a n|dog .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|DET 6|3|OBJ 7|3|PUNCT
+%cod:	$ind $pr $dei $pro:pas
+*CHI:	there [/] there he goes .
+%mor:	adv|there pro:sub|he v|go-3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$ind $pr $dei $pro:pas $p
+*CHI:	there are the boys .
+%mor:	pro:exist|there cop|be&PRES det:art|the n|boy-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$ind $pr $np:kds $dei
+*CHI:	chasing after him .
+%mor:	part|chase-PRESP prep|after pro:obj|him .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%cod:	$rel $pg $emp:kds $pro:pas
+*CHI:	he's running by a lady [//] an old lady .
+%mor:	pro:sub|he~aux|be&3S part|run-PRESP prep|by det:art|a det:art|a
+	adj|old n|lady .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|8|DET 6|8|DET 7|8|MOD 8|4|POBJ
+	9|3|PUNCT
+%cod:	$ind $pr $pg $pro:pas $indef:lad
+*CHI:	they're stopped by the old lady .
+%mor:	pro:sub|they~aux|be&PRES part|stop-PASTP prep|by det:art|the
+	adj|old n|lady .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+%cod:	$ind $pr $pv $pro:kds $npap:lad
+*CHI:	he gets away .
+%mor:	pro:sub|he v|get-3S adv|away .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$ind $pr $pro:pas
+*CHI:	there he goes .
+%mor:	adv|there pro:sub|he v|go-3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$ind $pr $dei $p $pro:pas
+*CHI:	there they are .
+%mor:	adv|there pro:sub|they cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$ind $pr $dei $pro:kds
+*CHI:	there they go after (h)im .
+%mor:	adv|there pro:sub|they v|go prep|after pro:obj|him .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%cod:	$ind $pr $dei $p $pro:kds $pro:pas
+*CHI:	they're still running down the alleyways .
+%mor:	pro:sub|they~aux|be&PRES adv|still part|run-PRESP prep|down
+	det:art|the n|+n|alley+n|way-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%cod:	$ind $pr $pg $a:adv $pro:kds
+*CHI:	there's a kid .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|kid .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$ind $pr $dei $indef:pkd
+*CHI:	he's up with the balloon .
+%mor:	pro:sub|he~cop|be&3S adv|up prep|with det:art|the n|balloon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%cod:	$ind $pr $pro:pkd $np:bal
+*CHI:	here comes all the nasty kids .
+%mor:	adv|here v|come-3S adv|all det:art|the adj|nasty n|kid-PL .
+%gra:	1|2|JCT 2|0|ROOT 3|6|JCT 4|6|DET 5|6|MOD 6|2|SUBJ 7|2|PUNCT
+%cod:	$ind $pr $npap:kds $dei
+*CHI:	shooting slingshots at him .
+%mor:	part|shoot-PRESP n|+n|sling+n|shot-PL prep|at pro:obj|him .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+%cod:	$sadv $pg $emp:kds $pro:pas
+*RES:	I think we're gonna [<] [//] I think we'll stop there .
+%mor:	pro:sub|I v|think pro:sub|we~cop|be&PRES pro:sub|I v|think
+	pro:sub|we~mod|will n|stop adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|SUBJ 6|2|CJCT 7|9|SUBJ 8|9|AUX
+	9|6|OBJ 10|9|JCT 11|2|PUNCT
+*RES:	I think that's gonna be enough for the sportscast .
+%mor:	pro:sub|I v|think comp|that~aux|be&3S part|go-PRESP~inf|to cop|be
+	adv|enough prep|for det:art|the n|sportscast .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|INF 7|5|COMP 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+@End

@@ -1,0 +1,385 @@
+@UTF8
+@PID:	11312/c-00025487-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Molly Target_Child , RES Deborah Investigator , XXX
+	Unidentified
+@ID:	eng|Hicks|CHI|11;00.|female|||Target_Child|||
+@ID:	eng|Hicks|RES|||||Investigator|||
+@ID:	eng|Hicks|XXX|||||Unidentified|||
+@Comment:	Task is report
+@Date:	05-NOV-1987
+@Types:	cross, narrative, TD
+*RES:	okay (.) so this is Molly and Deborah news reporters .
+%mor:	co|okay co|so pro:dem|this cop|be&3S n:prop|Molly coord|and
+	n:prop|Deborah n|news n|report&dv-AGT-PL .
+%gra:	1|3|COM 2|3|COM 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|CONJ 7|9|MOD 8|9|MOD
+	9|6|COORD 10|4|PUNCT
+*RES:	and we're gonna say .
+%mor:	coord|and pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|say .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*RES:	what we saw .
+%mor:	pro:int|what pro:sub|we v|see&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*RES:	happen in the movie .
+%mor:	v|happen prep|in det:art|the n|movie .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*RES:	and I'm gonna start off .
+%mor:	coord|and pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|start adv|off
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*RES:	&-um (.) News [!] Headlines [!] Boy Seen Flying Over City !
+%mor:	n:prop|News n:prop|Headlines n:prop|Boy n:prop|Seen n:prop|Flying
+	n:prop|Over n:prop|City !
+%gra:	1|2|NAME 2|3|NAME 3|4|NAME 4|6|NAME 5|6|NAME 6|0|ROOT 7|6|APP 8|6|PUNCT
+*RES:	the first thing that I saw happen was .
+%mor:	det:art|the adj|first n|thing pro:rel|that pro:sub|I v|see&PAST
+	v|happen cop|be&PAST&13S .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|COMP
+	8|7|COMP 9|3|PUNCT
+*RES:	a little boy found a red balloon on his way to the bus stop .
+%mor:	det:art|a adj|little n|boy v|find&PAST det:art|a n|red n|balloon
+	prep|on det:poss|his n|way prep|to det:art|the n|bus n|stop .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ 15|4|PUNCT
+*RES:	he was seen walking with the balloon to a bus .
+%mor:	pro:sub|he aux|be&PAST&13S part|see&PASTP part|walk-PRESP prep|with
+	det:art|the n|balloon prep|to det:art|a n|bus .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|XJCT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*RES:	he got on the bus .
+%mor:	pro:sub|he v|get&PAST prep|on det:art|the n|bus .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*RES:	and the balloon followed behind .
+%mor:	coord|and det:art|the n|balloon v|follow-PAST adv|behind .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*RES:	and this is Molly news reporter .
+%mor:	coord|and pro:dem|this cop|be&3S n:prop|Molly n|news
+	n|report&dv-AGT .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|PRED 7|3|PUNCT
+*CHI:	as the bus went along .
+%mor:	conj|as det:art|the n|bus v|go&PAST adv|along .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%cod:	$sadv $pa $t:cn
+*CHI:	the balloon kept following .
+%mor:	det:art|the n|balloon v|keep&PAST part|follow-PRESP .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|3|PUNCT
+%cod:	$mc $pa $pg $a:v
+*CHI:	when he got off the bus .
+%mor:	conj|when pro:sub|he v|get&PAST prep|off det:art|the n|bus .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%cod:	$sadv $pa $l:cont
+*CHI:	the balloon stopped following .
+%mor:	det:art|the n|balloon v|stop-PAST part|follow-PRESP .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|3|PUNCT
+%cod:	$mc $pa $pg $a:v
+*CHI:	as the boy got off the bus .
+%mor:	conj|as det:art|the n|boy v|get&PAST prep|off det:art|the n|bus .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%cod:	$sadv $pa $t:cn
+*CHI:	the balloon came down .
+%mor:	det:art|the n|balloon v|come&PAST adv|down .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%cod:	$mc $pa
+*CHI:	and let the boy take its string .
+%mor:	coord|and v|let&ZERO det:art|the n|boy v|take det:poss|its n|string
+	.
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|7|DET 7|5|OBJ 8|2|PUNCT
+%cod:	$mc $pa
+*CHI:	as they kept on walking .
+%mor:	conj|as pro:sub|they v|keep&PAST adv|on part|walk-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|XJCT 6|3|PUNCT
+%cod:	$ind $pa $pg $a:v
+*XXX:	they came along (.) some (..) can't remember this part .
+%mor:	pro:sub|they v|come&PAST prep|along qn|some mod|can~neg|not
+	v|remember det:dem|this n|part .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|JCT 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|CJCT 8|9|DET
+	9|7|OBJ 10|2|PUNCT
+*RES:	you don't hafta tell every detail .
+%mor:	pro:per|you mod|do~neg|not mod|have~inf|to v|tell qn|every n|detail
+	.
+%gra:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|8|QUANT 8|6|OBJ
+	9|6|PUNCT
+*RES:	you can just like tell the main points .
+%mor:	pro:per|you mod|can adv|just prep|like v|tell det:art|the adj|main
+	n|point-PL .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|JCT 4|5|JCT 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+*CHI:	after a while they came along some boys .
+%mor:	prep|after det:art|a n|while pro:sub|they v|come&PAST prep|along
+	qn|some n|boy-PL .
+%gra:	1|5|JCT 2|3|DET 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|5|PUNCT
+%cod:	$ind $t:sq $pa
+*CHI:	the boys were following the little boy and the red balloon .
+%mor:	det:art|the n|boy-PL aux|be&PAST part|follow-PRESP det:art|the
+	adj|little n|boy coord|and det:art|the adj|red n|balloon .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|CONJ
+	9|11|DET 10|11|MOD 11|8|COORD 12|4|PUNCT
+%cod:	$ind $pa $pg
+*CHI:	and were (.) trying to catch the balloon .
+%mor:	coord|and aux|be&PAST part|try-PRESP inf|to v|catch det:art|the
+	n|balloon .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+%cod:	$ind $pa $pg $modv
+*CHI:	and take it down .
+%mor:	coord|and v|take pro:per|it adv|down .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%cod:	$ind $pa $pg $modv
+*CHI:	the balloon (.) as strange as it may seem .
+%mor:	det:art|the n|balloon prep|as adj|strange prep|as pro:per|it
+	mod|may cop|seem .
+%gra:	1|2|DET 2|0|INCROOT 3|4|COORD 4|2|POSTMOD 5|8|COORD 6|8|SUBJ 7|8|AUX
+	8|4|ENUM 9|2|PUNCT
+%cod:	$sadv $pr $i:meta
+*CHI:	would not allow .
+%mor:	mod|will&COND neg|not v|allow .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PUNCT
+%cod:	$mc $pa $neg
+*CHI:	these ragamuffins to catch it .
+%mor:	det:dem|these n|ragamuffin-PL inf|to v|catch pro:per|it .
+%gra:	1|2|DET 2|0|INCROOT 3|4|INF 4|2|XMOD 5|4|OBJ 6|2|PUNCT
+%cod:	$cmp $inf
+*CHI:	when the boy came out [//] later on (.) the boy went into a pastry
+	shop .
+%mor:	conj|when det:art|the n|boy v|come&PAST adv|later prep|on
+	det:art|the n|boy v|go&PAST prep|into det:art|a n|pastry n|shop .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|9|CJCT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|0|ROOT 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|9|PUNCT
+%cod:	$ind $t:sq $pa
+*CHI:	and as he went in .
+%mor:	coord|and conj|as pro:sub|he v|go&PAST adv|in .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%cod:	$sadv $pa $t:cn
+*CHI:	he told the balloon .
+%mor:	pro:sub|he v|tell&PAST det:art|the n|balloon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$mc $pa
+*CHI:	to stay right above the door .
+%mor:	inf|to v|stay adv|right prep|above det:art|the n|door .
+%gra:	1|2|INF 2|0|ROOT 3|4|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%cod:	$cmp $inf $intn
+*CHI:	the boys (.) who had also come along .
+%mor:	det:art|the n|boy-PL pro:rel|who v|have&PAST adv|also v|come
+	adv|along .
+%gra:	1|2|DET 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|6|JCT 6|4|COMP 7|6|JCT
+	8|2|PUNCT
+%cod:	$rel $mc $pa
+*CHI:	to look at the pastry shop .
+%mor:	inf|to v|look prep|at det:art|the n|pastry n|shop .
+%gra:	1|2|INF 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+%cod:	$sadv $inf $l:pur
+*CHI:	saw the balloon .
+%mor:	v|see&PAST det:art|the n|balloon .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$ind $pa
+*CHI:	hanging there .
+%mor:	part|hang-PRESP adv|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%cod:	$sadv $pg
+*CHI:	and (.) in just a moment (.) caught the balloon .
+%mor:	coord|and prep|in adv|just det:art|a n|moment v|catch&PAST
+	det:art|the n|balloon .
+%gra:	1|6|LINK 2|6|JCT 3|6|JCT 4|5|DET 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+%cod:	$ind $pa $t:adv
+*CHI:	and were running toward the hill .
+%mor:	coord|and aux|be&PAST part|run-PRESP prep|toward det:art|the n|hill
+	.
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%cod:	$ind $pa $pg
+*CHI:	when they got to the [//] when the boy got out of the pastry shop .
+%mor:	conj|when pro:sub|they v|get&PAST prep|to conj|when det:art|the
+	co|boy v|get&PAST adv|out prep|of det:art|the n|pastry n|shop .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|LINK 6|7|DET 7|8|SUBJ 8|4|POBJ
+	9|8|JCT 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|3|PUNCT
+%cod:	$sadv $pa $l:cont
+*CHI:	he called his balloon .
+%mor:	pro:sub|he v|call-PAST det:poss|his n|balloon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$mc $pa
+*CHI:	and it didn't come .
+%mor:	coord|and pro:per|it mod|do&PAST~neg|not v|come .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+%cod:	$ind $neg
+*CHI:	he was running all around Paris .
+%mor:	pro:sub|he aux|be&PAST&13S part|run-PRESP adv|all prep|around
+	n:prop|Paris .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+%cod:	$mc $pa $pg $intn
+*CHI:	trying to find his balloon .
+%mor:	part|try-PRESP inf|to v|find det:poss|his n|balloon .
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$sadv $pg $modv
+*CHI:	finally he came up to the beginning of the hill .
+%mor:	adv|final&dadj-LY pro:sub|he v|come&PAST adv|up prep|to det:art|the
+	n|beginning prep|of det:art|the n|hill .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+%cod:	$ind $pa $t:sq
+*CHI:	and he saw a tiny red mark on the dot [?] [//] on the dot of the
+	hill .
+%mor:	coord|and pro:sub|he v|see&PAST det:art|a adj|tiny n|red n|mark
+	prep|on det:art|the adv|on det:art|the n|dot prep|of det:art|the
+	n|hill .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|MOD 6|7|MOD 7|3|OBJ 8|3|JCT
+	9|10|DET 10|8|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|3|PUNCT
+%cod:	$ind $pa $ex:adj
+*CHI:	he ran up .
+%mor:	pro:sub|he v|run&PAST adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$ind $pa
+*CHI:	and low and behold there was his balloon .
+%mor:	coord|and n|low coord|and v|behold adv|there cop|be&PAST&13S
+	det:poss|his n|balloon .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|JCT 6|4|COMP 7|8|DET
+	8|6|PRED 9|1|PUNCT
+%cod:	$ind $pa $intn
+*CHI:	and there [!] were the boys .
+%mor:	coord|and adv|there cop|be&PAST det:art|the n|boy-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%cod:	$ind $pa $str
+*CHI:	he called his balloon many times .
+%mor:	pro:sub|he v|call-PAST det:poss|his v|balloon qn|many n|time-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|COMP 5|6|QUANT 6|4|OBJ 7|2|PUNCT
+%cod:	$ind $pa $a:adv
+*CHI:	and finally it came .
+%mor:	coord|and adv|final&dadj-LY pro:per|it v|come&PAST .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$ind $pa $t:sq
+*CHI:	he started running .
+%mor:	pro:sub|he v|start-PAST part|run-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|2|PUNCT
+%cod:	$ind $pa $pg $a:v
+*CHI:	he came [//] he ran down a narrow passageway .
+%mor:	pro:sub|he pro:sub|he v|run&PAST prep|down det:art|a adj|narrow
+	n|+n|passage+n|way .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+%cod:	$ind $pa $ex:adj
+*CHI:	and seemingly escaped the boys .
+%mor:	coord|and adv|seem&dadj-PRESP-LY v|escape-PAST det:art|the n|boy-PL
+	.
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$ind $pa $ex:adv $note
+*CHI:	but then (.) as he was reaching the end of the passageway .
+%mor:	conj|but adv:tem|then conj|as pro:sub|he aux|be&PAST&13S
+	part|reach-PRESP det:art|the n|end prep|of det:art|the
+	n|+n|passage+n|way .
+%gra:	1|6|LINK 2|6|JCT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|6|PUNCT
+%cod:	$sadv $pa $pg $l:tr $t:sq $t:cn
+*CHI:	three more boys came .
+%mor:	det:num|three adv|more n|boy-PL v|come&PAST .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$mc $pa
+*CHI:	and trapped him .
+%mor:	coord|and v|trap-PAST pro:obj|him .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$ind $pa
+*CHI:	he pushed through them .
+%mor:	pro:sub|he v|push-PAST prep|through pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%cod:	$ind $pa
+*CHI:	and ran up toward the hill .
+%mor:	coord|and v|run&PAST adv|up prep|toward det:art|the n|hill .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%cod:	$mc $pa
+*CHI:	hoping to escape from them .
+%mor:	part|hope-PRESP inf|to v|escape prep|from pro:obj|them .
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|3|JCT 5|4|POBJ 6|1|PUNCT
+%cod:	$sadv $pg $i:s:men
+*CHI:	but when he got to the top of the hill .
+%mor:	conj|but conj|when pro:sub|he v|get&PAST prep|to det:art|the n|top
+	prep|of det:art|the n|hill .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|1|PUNCT
+%cod:	$sadv $pa $l:cont $l:tr
+*CHI:	boys came from every direction .
+%mor:	n|boy-PL v|come&PAST prep|from qn|every n|direction .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|QUANT 5|3|POBJ 6|2|PUNCT
+%cod:	$mc $pa
+*CHI:	around eight boys grabbed him .
+%mor:	prep|around det:num|eight n|boy-PL v|grab-PAST pro:obj|him .
+%gra:	1|4|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$ind $pa
+*CHI:	and held him .
+%mor:	coord|and v|hold&PAST pro:obj|him .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$mc $pa
+*CHI:	while the other boys were try(ing) [//] shot the balloon .
+%mor:	conj|while det:art|the qn|other n|boy-PL aux|be&PAST
+	part|shoot&PASTP det:art|the n|balloon .
+%gra:	1|6|LINK 2|4|DET 3|4|QUANT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+%cod:	$sadv $pa $t:cn
+*CHI:	as the balloon (.) fizzled .
+%mor:	conj|as det:art|the n|balloon v|fizzle-PAST .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$sadv $pa $t:cn
+*CHI:	and went to the ground .
+%mor:	coord|and v|go&PAST prep|to det:art|the n|ground .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%cod:	$sadv $pa $t:cn
+*CHI:	balloons were popping out of every corner in the town .
+%mor:	n|balloon-PL aux|be&PAST part|pop-PRESP adv|out prep|of qn|every
+	n|corner prep|in det:art|the n|town .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|QUANT 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+%cod:	$ind $pa $pg
+*CHI:	out of windows came balloons !
+%mor:	adv|out prep|of n|window-PL v|come&PAST n|balloon-PL !
+%gra:	1|0|INCROOT 2|1|JCT 3|4|SUBJ 4|2|POBJ 5|4|OBJ 6|1|PUNCT
+%cod:	$ind $pa $str $note
+*CHI:	off babies came balloons !
+%mor:	prep|off n|baby-PL v|come&PAST n|balloon-PL !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$ind $pa $str $note
+*CHI:	everywhere there were balloons !
+%mor:	n|everywhere adv|there cop|be&PAST n|balloon-PL !
+%gra:	1|0|INCROOT 2|3|SUBJ 3|1|CMOD 4|3|PRED 5|1|PUNCT
+%cod:	$ind $pa $str $note
+*CHI:	they all came up to the hill .
+%mor:	pro:sub|they post|all v|come&PAST adv|up prep|to det:art|the n|hill
+	.
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%cod:	$ind $pa
+*CHI:	where the little boy was sitting .
+%mor:	pro:int|where det:art|the adj|little n|boy aux|be&PAST&13S
+	part|sit-PRESP .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+%cod:	$rel $pa $pg
+*CHI:	lamenting over his lost red balloon .
+%mor:	part|lament-PRESP prep|over det:poss|his part|lose&PASTP n|red
+	n|balloon .
+%gra:	1|0|INCROOT 2|1|JCT 3|6|DET 4|6|XMOD 5|6|MOD 6|2|POBJ 7|1|PUNCT
+%cod:	$sadv $pg $i:s:emo $ex:adj
+*CHI:	when the balloons got to the top of the hill .
+%mor:	conj|when det:art|the n|balloon-PL v|get&PAST prep|to det:art|the
+	n|top prep|of det:art|the n|hill .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+%cod:	$sadv $pa $l:cont
+*CHI:	the boy tied them all together .
+%mor:	det:art|the n|boy part|tie-PASTP pro:obj|them post|all adv|together
+	.
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|3|OBJ 5|4|PQ 6|3|JCT 7|2|PUNCT
+%cod:	$mc $pa
+*CHI:	and sat on top of the strings .
+%mor:	coord|and v|sit&PAST prep|on n|top prep|of det:art|the n|string-PL
+	.
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%cod:	$ind $pa
+*CHI:	he was last seen .
+%mor:	pro:sub|he cop|be&PAST&13S adj|last part|see&PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|XMOD 5|2|PUNCT
+%cod:	$mc $pa $pv $t:sq $note
+*CHI:	floating above the town of Paris .
+%mor:	part|float-PRESP prep|above det:art|the n|town prep|of n:prop|Paris
+	.
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|1|PUNCT
+%cod:	$cmp $pg $note
+*RES:	okay !
+%mor:	co|okay !
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End
