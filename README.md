@@ -6,6 +6,7 @@
 
 Caroline Gish's course project for Data Science for Linguists 2022
 
+My [guestbook](https://github.com/Data-Science-for-Linguists-2022/Class-Lounge/blob/main/guestbooks/guestbook_caroline.md)
 ---
 
 See the overall plan for my project &rarr; [project plan](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/project_plan.md)
