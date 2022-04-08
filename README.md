@@ -4,10 +4,11 @@
 
 ## Hello and welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Caroline Gish's course project for Data Science for Linguists 2022
+Caroline Gish's course project for Data Science for Linguists 2022 
 
-My [guestbook](https://github.com/Data-Science-for-Linguists-2022/Class-Lounge/blob/main/guestbooks/guestbook_caroline.md)
 ---
+
+Visit my guestbook &rarr; [guestbook](https://github.com/Data-Science-for-Linguists-2022/Class-Lounge/blob/main/guestbooks/guestbook_caroline.md)
 
 See the overall plan for my project &rarr; [project plan](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/project_plan.md)
 
