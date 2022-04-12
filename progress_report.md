@@ -52,3 +52,5 @@
 - created a dataframe with %mor and %gra tiers for the entire dataset
 
 **Sharing:** I added a CC license to go along with the non-code elements of my project and to align with the licensing on the TalkBank data from which the CHILDES Narrative English corpus comes. The original CHILDES TalkBank data is licensed under the Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) license, so I, too, am required to use this same license. As I included in my first progress report, since all of the data are readily available from the [CHILDES database](https://childes.talkbank.org/access/Eng-NA/Hicks.html) and the CHAT files can be viewed on there without having to use additional software, I have chosen to only put files (one from each narrative genre) from one child per grade into my [`data_samples/` directory](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/tree/main/data_samples). 
+
+## 3rd Progress Report
