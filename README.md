@@ -21,3 +21,21 @@ See how my project is going &rarr; [progress report](https://github.com/Data-Sci
 [`notebooks/`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/tree/main/notebooks) - all of my Jupyter notebooks
 
 [`resources/`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/tree/main/resources) - a collection of handy resources and notes for ease of access
+
+### License (WIP)
+
+"Everything besides the contents of decomp/data are covered by the MIT License contained at the same directory level as this README. All contents of decomp/data are covered by the CC-BY-SA 4.0 license."
+
+### Citations
+
+[The Universal Decompositional Semantics Dataset and Decomp Toolkit](https://aclanthology.org/2020.lrec-1.699) (White et al., LREC 2020)
+
+Hicks, D. (1990). Kinds of texts: Narrative genre skills among children from two communities. In A. McCabe (Ed.), *Developing narrative structure*. Hillsdale, NJ: Erlbaum.
+
+Additional references include:
+
+Berman, R. A. and D. I. Slobin (1994). *Relating events in narrative: A crosslinguistic de-velopmental study*. Hillsdale, NJ, Lawrence Erlbaum Associates.
+
+Heath, S. (1983). *Ways with words: Language, life and work in communities and classrooms*. Cambridge, Cambridge University Press.
+
+Quirk, R., S. Greenbaum, et al. (1972). *A grammar of contemporary English*. London, Longman.
