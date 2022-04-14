@@ -1,0 +1,374 @@
+@UTF8
+@PID:	11312/c-00025497-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Cyrene Target_Child , RES Deborah Investigator , XXX
+	Unidentified
+@ID:	eng|Hicks|CHI|6;00.|||LI|Target_Child|||
+@ID:	eng|Hicks|RES|||||Investigator|||
+@ID:	eng|Hicks|XXX|||||Unidentified|||
+@Comment:	Task is eventcast
+@Types:	cross, narrative, TD
+*RES:	this is Cyrene and Deborah .
+%mor:	pro:dem|this cop|be&3S n:prop|Cyrene coord|and n:prop|Deborah .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|CONJ 5|4|COORD 6|2|PUNCT
+*RES:	and we're gonna be sportscasters .
+%mor:	coord|and pro:sub|we~aux|be&PRES part|go-PRESP~inf|to cop|be
+	n|+n|sports+n|caster-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|PRED 8|4|PUNCT
+*RES:	and say everything we see happening .
+%mor:	coord|and v|say pro:indef|everything pro:sub|we v|see
+	n:gerund|happen-PRESP .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|SUBJ 5|2|CJCT 6|5|OBJ 7|2|PUNCT
+*RES:	and I'm gonna start .
+%mor:	coord|and pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|start .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*RES:	and then Cyrene's gonna take over .
+%mor:	coord|and adv:tem|then adj|Cyrene&dn-POSS part|go-PRESP~inf|to
+	v|take adv|over .
+%gra:	1|4|LINK 2|4|JCT 3|4|MOD 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*RES:	&-um (.) the little boy is going past a church steeple (.) with his
+	balloon .
+%mor:	det:art|the adj|little n|boy aux|be&3S part|go-PRESP adj|past
+	det:art|a n|church n|steeple prep|with det:poss|his n|balloon .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|9|MOD 7|9|DET 8|9|MOD
+	9|5|OBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|5|PUNCT
+*CHI:	and it's red [% she breaks into my script] .
+%mor:	coord|and pro:per|it~cop|be&3S adj|red .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$e:des
+*RES:	yes (.) and it's red .
+%mor:	co|yes coord|and pro:per|it~cop|be&3S adj|red .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*RES:	and he's coming to a bakery shop .
+%mor:	coord|and pro:sub|he~aux|be&3S part|come-PRESP prep|to det:art|a
+	n|bakery n|shop .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*RES:	and he's looking inside the bakery shop .
+%mor:	coord|and pro:sub|he~aux|be&3S part|look-PRESP prep|inside
+	det:art|the n|bakery n|shop .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*RES:	and he's checking in his pocket to see if he has <some money> [>] .
+%mor:	coord|and pro:sub|he~aux|be&3S part|check-PRESP prep|in
+	det:poss|his n|pocket inf|to v|see conj|if pro:sub|he v|have&3S
+	qn|some n|money .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|INF
+	9|4|XJCT 10|12|LINK 11|12|SUBJ 12|9|COMP 13|14|QUANT 14|12|OBJ 15|4|PUNCT
+*XXX:	money [<] .
+%mor:	n|money .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*RES:	to buy something to eat .
+%mor:	inf|to v|buy pro:indef|something inf|to v|eat .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|5|INF 5|3|XMOD 6|2|PUNCT
+*CHI:	and this is when he gets a hot dog .
+%mor:	coord|and pro:dem|this cop|be&3S conj|when pro:sub|he v|get-3S
+	det:art|a adj|hot n|dog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|3|PUNCT
+*RES:	and it looks good .
+%mor:	coord|and pro:per|it v|look-3S adj|good .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	he's trying to get [/] he's trying to get his money out of his
+	pocket .
+%mor:	pro:sub|he~aux|be&3S part|try-PRESP prep|to pro:sub|he~aux|be&3S
+	part|try-PRESP inf|to v|get det:poss|his n|money adv|out prep|of
+	det:poss|his n|pocket .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|SUBJ 6|7|AUX 7|4|POBJ 8|9|INF
+	9|7|COMP 10|11|DET 11|9|OBJ 12|9|JCT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|3|PUNCT
+*RES:	can you take over now .
+%mor:	mod|can pro:per|you v|take adv|over adv|now .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*RES:	and be the sportscaster ?
+%mor:	coord|and cop|be det:art|the n|+n|sports+n|caster ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*RES:	and say everything you see happening ?
+%mor:	coord|and v|say pro:indef|everything pro:per|you v|see
+	n:gerund|happen-PRESP ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*XXX:	everything you see happening ?
+%mor:	pro:indef|everything pro:per|you v|see n:gerund|happen-PRESP ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*RES:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*XXX:	is (.) wait [//] can I say my Dad's fudge ripple or something ?
+%mor:	aux|be&3S mod|can pro:sub|I v|say det:poss|my adj|Dad&dn-POSS
+	n|fudge n|ripple coord|or pro:indef|something ?
+%gra:	1|4|AUX 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|MOD 7|8|MOD 8|4|OBJ
+	9|8|CONJ 10|9|COORD 11|4|PUNCT
+*RES:	you say what you see happening in the movie like a sportscaster .
+%mor:	pro:per|you v|say pro:int|what pro:per|you v|see
+	n:gerund|happen-PRESP prep|in det:art|the n|movie prep|like
+	det:art|a n|+n|sports+n|caster .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*CHI:	I see that red balloon .
+%mor:	pro:sub|I v|see adv|that adj|red n|balloon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CHI:	they took [!] it .
+%mor:	pro:sub|they v|take&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	and they ran .
+%mor:	coord|and pro:sub|they v|run&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	and then the boy's (.) he [//] the boy's looking all [/] looking
+	all over for it .
+%mor:	coord|and adv:tem|then det:art|the adj|boy&dn-POSS det:art|the
+	n|boy~aux|be&3S part|look-PRESP part|look-PRESP adv|all prep|over
+	prep|for pro:per|it .
+%gra:	1|8|LINK 2|8|JCT 3|6|DET 4|6|MOD 5|6|DET 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|XJCT 10|11|JCT 11|9|JCT 12|11|JCT 13|12|POBJ 14|8|PUNCT
+*CHI:	and what he's eating is a hot dog .
+%mor:	coord|and pro:int|what pro:sub|he~cop|be&3S n:gerund|eat-PRESP
+	cop|be&3S det:art|a adj|hot n|dog .
+%gra:	1|6|LINK 2|4|LINK 3|4|SUBJ 4|6|PRED 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|PRED 10|6|PUNCT
+*CHI:	and them boys is running up to take .
+%mor:	coord|and pro:obj|them n|boy-PL aux|be&3S part|run-PRESP adv|up
+	inf|to v|take .
+%gra:	1|5|LINK 2|3|SUBJ 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|INF 8|5|XJCT
+	9|5|PUNCT
+*CHI:	they is going [//] they &-um [/] they got the red balloon .
+%mor:	pro:sub|they cop|be&3S pro:sub|they pro:sub|they v|get&PAST
+	det:art|the n|red n|balloon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|SUBJ 5|3|CMOD 6|8|DET 7|8|MOD 8|5|OBJ
+	9|2|PUNCT
+*CHI:	and they is running .
+%mor:	coord|and pro:sub|they aux|be&3S part|run-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	and one has gone to the end .
+%mor:	coord|and pro:indef|one aux|have&3S part|go&PASTP prep|to
+	det:art|the n|end .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	he's gonna get all them balloons .
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|get qn|all pro:obj|them
+	n|balloon-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|8|QUANT 7|8|SUBJ 8|5|OBJ
+	9|3|PUNCT
+*CHI:	he's gonna be flying (.) up on the [/] up in the sky .
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP~inf|to aux|be part|fly-PRESP
+	adv|up prep|on adv|up prep|in det:art|the n|sky .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|INF 5|6|AUX 6|3|COMP 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|9|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*CHI:	and the boys cannot catch (h)im .
+%mor:	coord|and det:art|the n|boy-PL mod|can~neg|not v|catch pro:obj|him
+	.
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	and what they're gonna do (.) he gonna find them boys .
+%mor:	coord|and pro:int|what pro:sub|they~aux|be&PRES
+	part|go-PRESP~inf|to v|do pro:sub|he part|go-PRESP~inf|to v|find
+	pro:obj|them n|boy-PL .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|8|XMOD 10|11|INF 11|9|COMP 12|13|SUBJ 13|11|COMP 14|5|PUNCT
+*CHI:	he gonna see the red balloon
+	[% with rhythmic intonation , almost musical] .
+%mor:	pro:sub|he part|go-PRESP~inf|to v|see det:art|the adj|red n|balloon
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|2|PUNCT
+*CHI:	and gonna [//] the boys gonna pull it .
+%mor:	coord|and det:art|the n|boy-PL part|go-PRESP~inf|to v|pull
+	pro:per|it .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*CHI:	and he's gonna pull .
+%mor:	coord|and pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|pull .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*CHI:	and them boys gonna run after him .
+%mor:	coord|and pro:obj|them n|boy-PL part|go-PRESP~inf|to v|run
+	prep|after pro:obj|him .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|3|XMOD 5|6|INF 6|4|COMP 7|6|JCT
+	8|7|POBJ 9|1|PUNCT
+*CHI:	and they're gonna [//] and the boy [/] the boy gonna run .
+%mor:	coord|and pro:sub|they~cop|be&PRES coord|and det:art|the
+	det:art|the n|boy part|go-PRESP~inf|to v|run .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|7|DET 6|7|DET 7|4|COORD 8|7|XMOD
+	9|10|INF 10|8|COMP 11|3|PUNCT
+*RES:	can you say what you see happening here ?
+%mor:	mod|can pro:per|you v|say pro:int|what pro:per|you v|see
+	n:gerund|happen-PRESP adv|here ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|OBJ 8|6|JCT
+	9|3|PUNCT
+%com:	she has begun to project future events rather than providing an
+	eventcast of present events .
+*XXX:	what's happening here ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP adv|here ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*RES:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I see the boy's [!] walking .
+%mor:	pro:sub|I v|see det:art|the n|boy~aux|be&3S part|walk-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|6|SUBJ 5|6|AUX 6|2|COMP 7|2|PUNCT
+*CHI:	and he's putting his head up in the sky .
+%mor:	coord|and pro:sub|he~aux|be&3S part|put-PRESP det:poss|his n|head
+	adv|up prep|in det:art|the n|sky .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*CHI:	and (i)s looking for it .
+%mor:	coord|and aux|be&3S part|look-PRESP prep|for pro:per|it .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	and they was trying to shoot the balloon .
+%mor:	coord|and pro:sub|they aux|be&PAST&13S part|try-PRESP inf|to
+	v|shoot det:art|the n|balloon .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*CHI:	and they fighting .
+%mor:	coord|and pro:sub|they part|fight-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	and they're [/] and they're pulling the balloon .
+%mor:	coord|and coord|and pro:sub|they~aux|be&PRES part|pull-PRESP
+	det:art|the n|balloon .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	and he said (.) come here balloon (.) balloon .
+%mor:	coord|and pro:sub|he v|say&PAST v|come adv|here n|balloon n|balloon
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|7|MOD 7|5|POBJ 8|3|PUNCT
+*CHI:	he's saying that .
+%mor:	pro:sub|he~aux|be&3S part|say-PRESP comp|that .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*XXX:	do you want me to see everything that I say
+	[% say everything that she sees] .
+%mor:	mod|do pro:per|you v|want pro:obj|me inf|to v|see
+	pro:indef|everything pro:rel|that pro:sub|I v|say .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|OBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|3|PUNCT
+*RES:	yeah (.) I want you to say everything that you see happening .
+%mor:	co|yeah pro:sub|I v|want pro:per|you inf|to v|say
+	pro:indef|everything pro:rel|that pro:per|you v|see
+	n:gerund|happen-PRESP .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|6|OBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|10|OBJ 12|3|PUNCT
+*RES:	we're recording it on the tape recorder .
+%mor:	pro:sub|we~aux|be&PRES part|record-PRESP pro:per|it prep|on
+	det:art|the n|tape n|record&dv-AGT .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+*CHI:	they're fighting .
+%mor:	pro:sub|they~aux|be&PRES part|fight-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	and he [/] and he got the thing .
+%mor:	coord|and coord|and pro:sub|he v|get&PAST det:art|the n|thing .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	then finally he [!] got the xxx got the hand caught .
+%mor:	adv:tem|then adv|final&dadj-LY pro:sub|he v|get&PAST det:art|the
+	part|get&PASTP det:art|the n|hand v|catch&PAST .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|XJCT 7|8|DET 8|9|SUBJ
+	9|6|COMP 10|4|PUNCT
+*CHI:	he got the hand caught .
+%mor:	pro:sub|he v|get&PAST det:art|the n|hand v|catch&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+*CHI:	and he [//] (be)cause he's trying to push the door open [/] open .
+%mor:	coord|and conj|because pro:sub|he~aux|be&3S part|try-PRESP inf|to
+	v|push det:art|the n|door adj|open .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|9|POSTMOD 11|5|PUNCT
+*CHI:	and he's [/] and he's looking in there .
+%mor:	coord|and coord|and pro:sub|he~aux|be&3S part|look-PRESP prep|in
+	n|there .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*CHI:	and he's gonna &-um (.) get the boy .
+%mor:	coord|and pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|get
+	det:art|the n|boy .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*CHI:	he's gonna try to [//] he gonna [//] he's gonna &-um (.) balloon
+	it's coming down .
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|try pro:sub|he
+	pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|balloon
+	pro:per|it~aux|be&3S part|come-PRESP adv|down .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|11|INF 11|9|COMP 12|11|OBJ 13|14|AUX 14|11|COMP 15|14|JCT
+	16|3|PUNCT
+*CHI:	and he's gonna pull .
+%mor:	coord|and pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|pull .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*CHI:	and the boys pulling .
+%mor:	coord|and det:art|the n|boy-PL part|pull-PRESP .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|XMOD 5|3|PUNCT
+*CHI:	they pull and pull and pull .
+%mor:	pro:sub|they v|pull coord|and v|pull coord|and v|pull .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*CHI:	and it (..) and they fell down .
+%mor:	coord|and pro:per|it coord|and pro:sub|they v|fall&PAST adv|down .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	and he got it .
+%mor:	coord|and pro:sub|he v|get&PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	the boy's gonna climb down .
+%mor:	det:art|the n|boy~aux|be&3S part|go-PRESP~inf|to v|climb adv|down .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	and they're gonna try to get the red balloon .
+%mor:	coord|and pro:sub|they~aux|be&PRES part|go-PRESP~inf|to v|try
+	inf|to v|get det:art|the n|red n|balloon .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|INF 8|6|COMP
+	9|11|DET 10|11|MOD 11|8|OBJ 12|4|PUNCT
+*CHI:	and (.) and he's running away from him .
+%mor:	coord|and coord|and pro:sub|he~aux|be&3S part|run-PRESP adv|away
+	prep|from pro:obj|him .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*CHI:	the boy is running .
+%mor:	det:art|the n|boy aux|be&3S part|run-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	and they just running .
+%mor:	coord|and pro:sub|they adv|just part|run-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	and that dog is standing in the way .
+%mor:	coord|and det:dem|that n|dog aux|be&3S part|stand-PRESP prep|in
+	det:art|the n|way .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*CHI:	and (.) there's gonna be a lady walking up there .
+%mor:	coord|and pro:exist|there~cop|be&3S part|go-PRESP~inf|to cop|be
+	det:art|a n|lady part|walk-PRESP prep|up n|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|COMP 7|8|DET 8|6|PRED
+	9|8|XMOD 10|9|JCT 11|10|POBJ 12|3|PUNCT
+*CHI:	and they're gonna &-uh [//] they're gonna move [?] .
+%mor:	coord|and pro:sub|they~aux|be&PRES part|go-PRESP~inf|to
+	pro:sub|they~aux|be&PRES part|go-PRESP~inf|to v|move .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|INF 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|10|INF 10|8|COMP 11|4|PUNCT
+*CHI:	and the balloon is shaking and shaking to the wall .
+%mor:	coord|and det:art|the n|balloon aux|be&3S part|shake-PRESP
+	coord|and part|shake-PRESP prep|to det:art|the n|wall .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|CONJ 7|6|COORD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*CHI:	and there's that lady now .
+%mor:	coord|and pro:exist|there~cop|be&3S pro:dem|that n|lady adv|now .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|3|PUNCT
+*CHI:	and then that lady's walking .
+%mor:	coord|and adv:tem|then comp|that n|lady~aux|be&3S part|walk-PRESP .
+%gra:	1|6|LINK 2|6|JCT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*CHI:	an(d) he just went out .
+%mor:	coord|and pro:sub|he adv|just v|go&PAST adv|out .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	an(d) he's running .
+%mor:	coord|and pro:sub|he~aux|be&3S part|run-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	see they wanted to &-uh [/] they wanna &-um (.) get the red balloon
+	.
+%mor:	v|see pro:sub|they v|want-PAST prep|to pro:sub|they v|want~inf|to
+	v|get det:art|the n|red n|balloon .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|SUBJ 6|3|CJCT 7|8|INF 8|6|COMP
+	9|11|DET 10|11|MOD 11|8|OBJ 12|3|PUNCT
+%cod:	$e:i:wan
+*CHI:	you see (.) and them lights was shining [>] .
+%mor:	pro:per|you v|see coord|and pro:obj|them n|light-PL aux|be&PAST&13S
+	part|shine-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|5|SUBJ 5|7|SUBJ 6|7|AUX 7|2|CJCT 8|2|PUNCT
+%cod:	$e:des
+*CHI:	and he [//] and they gonna hide .
+%mor:	coord|and coord|and pro:sub|they part|go-PRESP~inf|to v|hide .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*CHI:	so that when they get the bl [/] the red balloon +...
+%mor:	adv|so adv|that conj|when pro:sub|they v|get det:art|the
+	det:art|the n|red n|balloon +...
+%gra:	1|2|JCT 2|3|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|9|DET 7|9|DET 8|9|MOD
+	9|5|OBJ 10|5|PUNCT
+%cod:	$c:con
+*RES:	I think we'll stop here .
+%mor:	pro:sub|I v|think pro:sub|we~mod|will n|stop adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|OBJ 6|5|NJCT 7|2|PUNCT
+@End
