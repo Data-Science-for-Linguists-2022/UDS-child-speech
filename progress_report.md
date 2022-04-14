@@ -54,3 +54,22 @@
 **Sharing:** I added a CC license to go along with the non-code elements of my project and to align with the licensing on the TalkBank data from which the CHILDES Narrative English corpus comes. The original CHILDES TalkBank data is licensed under the Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) license, so I, too, am required to use this same license. As I included in my first progress report, since all of the data are readily available from the [CHILDES database](https://childes.talkbank.org/access/Eng-NA/Hicks.html) and the CHAT files can be viewed on there without having to use additional software, I have chosen to only put files (one from each narrative genre) from one child per grade into my [`data_samples/` directory](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/tree/main/data_samples). 
 
 ## 3rd Progress Report
+
+### UDS dataset (with Decomp toolkit) ([notebook using CRC v3](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/notebooks/UDS_explore_caroline_CRC3.ipynb))
+
+*For now, I am putting each of the individual versions of my notebooks on GitHub since I am downloading them from the CRC OnDemand interface. Once I have a final one, I will clean up my `notebooks` subdirectory. The most up-to-date JNB is the latest version.*
+
+**Overall:** Due to the vastness of the UDS dataset combined with a lack of (helpful) documentation, I needed professorial help to sift through UDS. Na-Rae kindly stepped in and checked out UDS and decomp herself. Weird things happened for her as well when trying to import the dataset and toolkit (as in the corpus wouldn't even load), but she discovered that she could get it semi-working on CRC. This discovery occurred at the perfect time since I was yet once more unable to load and access the corpus even after getting it to work again for the last progress report ([old notebook](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/notebooks/uds_exploration.ipynb)). 
+
+I am now running things using CRC and have some basic code to work off of. I know the specific linguistic phenomenon I am interested in exploring with the UDS framework (see CHILDES section below), and have begun analyzing it. I think that looking at factuality could be a good avenue, as well as event structure with telicity and perhaps also `pred-hypothetical` within the genericity subspace of the semantic types.
+
+**Additional note:** After playing around with rendering the visualizations, we were ultimately unsuccessful due in part to package incompatibilites, so I had to abandon that route of inquiry. I did, however, put a graph provided by the [Decomp repository](https://github.com/decompositional-semantics-initiative/decomp) in my repo's [`visualizations` subdirectory](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/tree/main/visualizations) because I want to include it in my presentation. 
+
+
+
+### CHILDES Narrative English Hicks Corpus ([notebook](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/notebooks/childes_exploration.ipynb)-continuation from previous progress reports)
+
+*This dataset is being used mainly to discover a phenomenon that can be further explored using UDS.*
+
+**Overall** The DataFrame containing the utterances and tiers is finalized, but the coding tier is a bit wonky. To get a closer look at these CHAT files, I used the command line and `grep`. I am focusing on the annotation `$modv` that came up quite frequently in the coding tier (%cod) of the Hicks transcripts. Utterances annotated with `$modv` all have the verb "try" in them. I am interested in what using "try" does to the main verb that is dependent on it, particularly what it does to convey to what extent the action (verb dependent on "try") has been completed. Here is where UDS comes in.
+
