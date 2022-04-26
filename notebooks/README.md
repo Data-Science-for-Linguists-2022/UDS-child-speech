@@ -1,0 +1,1 @@
+**NOTE:** Because I am using CRC's ONDemand interface, I can't save my Jupyter Notebooks straight to this subdirectory. What I have been doing is downloading the notebook in its entirety after updating it. Therefore, there will be multiple versions of the notebook. The most recent notebook is whichever one has the highest number.
