@@ -12,7 +12,7 @@ Caroline Gish | cngish98@comcast.net
 
 This project was undertaken by **Caroline Gish** for the course project in the Data Science for Linguists 2022 course.
 
-The overall goal of this project was to see how the UDS semantic annotation framework, a novel framework claimed to have better coverage for non-prototypical instances, was equipped to handle child speech that may contain nonprototypical instances dissimilar from the UDS training sentences. 
+The overall goal of this project was to see how the UDS semantic annotation framework, a novel framework claimed to have better coverage for non-prototypical instances, was equipped to handle child speech that may contain nonprototypical instances dissimilar from the UDS training sentences. My personal goals in undeertaking this project were to gain experience with a massive dataset, that comes with its own library, designed specifically for semantic research.
 
 To read what my classmates had to say about my project during the semester, be sure to visit my [project guestbook](https://github.com/Data-Science-for-Linguists-2022/Class-Lounge/blob/main/guestbooks/guestbook_caroline.md)!
 
@@ -37,7 +37,7 @@ Data were sourced from the both the [Decomp repository](https://github.com/decom
 
 - [`code_notebooks/`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/tree/main/code_notebooks) - contains all of my Jupyter notebooks (`.ipynb` files) and license information for the PyLangAcq library and Decomp toolkit I used
 	- [`childes_exploration.ipynb`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/code_notebooks/childes_exploration.ipynb) is my all my code dedicated to the CHILDES dataset. Here is [the same notebook through Jupyter's nbviewer](https://nbviewer.org/github/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/code_notebooks/childes_exploration.ipynb) since GitHub sometimes messes with the formatting.
-	- [`UDS_exploration_CRC.ipynb`](https://nbviewer.org/github/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/code_notebooks/UDS_explore_CRC.ipynb) is all my code dedicated to the UDS dataset. Here is [the same notebook through Jupyter's nbviewer]() since GitHub sometimes messes with the formatting.
+	- [`UDS_exploration_CRC.ipynb`](https://nbviewer.org/github/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/code_notebooks/UDS_explore_CRC.ipynb) is all my code dedicated to the UDS dataset. Here is [the same notebook through Jupyter's nbviewer](https://nbviewer.org/github/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/code_notebooks/UDS_explore_CRC.ipynb) since GitHub sometimes messes with the formatting.
 - [`data_samples/`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/tree/main/data_samples) contains samples of the CHILDES CHAT data separated into subdirectories by child grade level. The full dataset is available on [this page](https://childes.talkbank.org/access/Eng-NA/Hicks.html).
 - [`resources/`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/tree/main/resources) is a collection of handy resources and notes for ease of access
 - [`visualizations/`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/tree/main/visualizations) contains an example of a UDS graph and my plot graphs saved as `.png` files
