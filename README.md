@@ -12,7 +12,7 @@ Caroline Gish | cngish98@comcast.net
 
 This project was undertaken by **Caroline Gish** for the course project in the Data Science for Linguists 2022 course.
 
-The overall goal of this project was to see how the UDS semantic annotation framework was equipped to handle child speech. 
+The overall goal of this project was to see how the UDS semantic annotation framework, a novel framework claimed to have better coverage for non-prototypical instances, was equipped to handle child speech that may contain nonprototypical instances dissimilar from the UDS training sentences. 
 
 To read what my classmates had to say about my project during the semester, be sure to visit my [project guestbook](https://github.com/Data-Science-for-Linguists-2022/Class-Lounge/blob/main/guestbooks/guestbook_caroline.md)!
 
@@ -23,7 +23,7 @@ Data were sourced from the both the [Decomp repository](https://github.com/decom
 
 ### Main repository files
 
-- [**`final_report.md`**]() 
+- [**`final_report.md`**](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/final_report.md) is the final write-up for my project
 - [`README.md`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/README.md) is what you are currently reading! It contains an overview of my project, links to all files, and information on the licensing and works cited.
 - [`presentation_gish.pdf`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/presentation_gish.pdf) is a PDF copy of my presentation slides for the presentation I gave in the [2022 Data Science for Linguists](https://naraehan.github.io/Data-Science-for-Linguists-2022/) class. These slides do not contain any of my notes, so please feel free to contact me for more information about them!
 - [`progress_report.md`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/progress_report.md) contains three different progress reports each detailing my project progress over the course of the semester.
@@ -36,8 +36,8 @@ Data were sourced from the both the [Decomp repository](https://github.com/decom
 ### Subdirectories
 
 - [`code_notebooks/`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/tree/main/code_notebooks) - contains all of my Jupyter notebooks (`.ipynb` files) and license information for the PyLangAcq library and Decomp toolkit I used
-	- [`childes_exploration.ipynb`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/code_notebooks/childes_exploration.ipynb) is my all my code dedicated to the CHILDES dataset
-	- [`UDS_exploration_CRC`]() is all my code dedicated to the UDS dataset
+	- [`childes_exploration.ipynb`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/code_notebooks/childes_exploration.ipynb) is my all my code dedicated to the CHILDES dataset. Here is [the same notebook through Jupyter's nbviewer](https://nbviewer.org/github/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/code_notebooks/childes_exploration.ipynb) since GitHub sometimes messes with the formatting.
+	- [`UDS_exploration_CRC.ipynb`](https://nbviewer.org/github/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/code_notebooks/UDS_explore_CRC.ipynb) is all my code dedicated to the UDS dataset. Here is [the same notebook through Jupyter's nbviewer]() since GitHub sometimes messes with the formatting.
 - [`data_samples/`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/tree/main/data_samples) contains samples of the CHILDES CHAT data separated into subdirectories by child grade level. The full dataset is available on [this page](https://childes.talkbank.org/access/Eng-NA/Hicks.html).
 - [`resources/`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/tree/main/resources) is a collection of handy resources and notes for ease of access
 - [`visualizations/`](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/tree/main/visualizations) contains an example of a UDS graph and my plot graphs saved as `.png` files
