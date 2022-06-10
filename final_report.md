@@ -92,7 +92,7 @@ The UDS dataset is comprised of three annotation layers built on English Web Tre
 Among the many, many things you can do with the Decomp toolkit, you are able to get the semantic nodes of a sentence. These semantic nodes, more specifically, are either a predicate node or an argument node.
 
 <figcaption align = "center"><b>Fig.2 - "try" constructions in terminal</b></figcaption>
-<img src="https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/visualizations/dev_sent-539.png" alt="image of development sentence 539: I tried to do it on the HRonline web-site, but the procedure is too complicated." width="400"/>
+<img src="https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/visualizations/dev_sent-539.png" alt="image of development sentence 539: I tried to do it on the HRonline web-site, but the procedure is too complicated." width="800"/>
 
 <figcaption align = "center"><b>Fig.3 - Predicates and arguments for sentence ewt-dev-539</b></figcaption>
 <img src="https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/visualizations/predArg_dev-539.png" alt="Predicates and arguments for sentence ewt-dev-539" width="300"/>
