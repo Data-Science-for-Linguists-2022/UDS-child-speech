@@ -43,7 +43,7 @@ This project aims to explore the UDS framework and dataset to see how it handles
 
 To my frustration and disappointment, this project ultimately proved quite challenging for me. I started out thinking that I would easily be able to navigate the UDS dataset with its built-in methods due, in part, to my relative lack of exploration when initially proposing the project and due, mainly, to the in-depth documentation I saw was provided along with the dataset and toolkit. This led me to want to both explore what UDS had to offer in terms of a novel semantic annotation framework *and* leverage it against another dataset comprising non-prototypical speech instances to see how it could handle such instances. As such, I chose a second dataset, the Hicks narrative corpus from the CHILDES databank system. 
 
-As I began to attempt navigating and exploring the UDS dataset with the Decomp toolkit, I quickly learned that it was not as straightforward as I though it would be (and I knew going in that it would take some tinkering with). See my [progress reports](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/progress_report.md) for updates. After multiple [failed attempts](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/code_notebooks/archived_notebooks/uds_exploration.ipynb) and then a few only semi-successful attempts to even install the toolkit and import the corpus, I realized I needed external help and went to my professor, Dr. Na-Rae Han, for assistance. She graciously helped me work through some aspects of the dataset that were relevant to my exploration, and I ended up having to import the UDS dataset through [Pitt's Center for Research Computing](https://crc.pitt.edu/) OPEN ONDemand interface and do all my coding work through that. We concluded that the UDS dataset, while providing ample semantic information, does not offer a very good means by which the general public or a single student can access that information.
+As I began to attempt navigating and exploring the UDS dataset with the Decomp toolkit, I quickly learned that it was not as straightforward as I though it would be (and I knew going in that it would take some tinkering with). See my [progress reports](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/progress_report.md) for updates. After multiple [failed attempts](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/code_notebooks/archived_notebooks/uds_exploration.ipynb) and then a few only semi-successful attempts to even install the toolkit and import the corpus, I realized I needed external help and went to my professor, Dr. Na-Rae Han, for assistance. She graciously helped me work through some aspects of the dataset that were relevant to my exploration, and I ended up having to import the UDS dataset through [Pitt's Center for Research Computing](https://crc.pitt.edu/) OPEN ONDemand interface and do all my coding work through that. We concluded that the UDS dataset, while providing ample semantic information, should not accessed by the general public or a single student for the best results. 
 
 Because it took so long to even access the information contained in the UDS dataset, the analysis portion of my project suffered, and though I was able to begin analysis on a specific linguistic phenomenon, I was unable to come to any solid conclusions regarding it.
 
@@ -67,7 +67,7 @@ An example of one of these sentences and potential simple questions asked about 
 	Q: Did someone break the mug?
 	Q: Did the mug move?
 
-Crowd-sources annotators can get to properties such as volition, change of state, causation, etc. by answering straightforward questions like those above and without having to know what each of these properties mean. Annotators can easily answer with "probably yes" or "probably no" to any of these questions and provide how confident they are in each of their answers.
+Crowd-sourced annotators can get to properties such as volition, change of state, causation, etc. by answering straightforward questions like those above without having to know what each of these properties mean. Annotators can easily answer with "probably yes" or "probably no" to any of these questions and provide how confident they are in each of their binary answers.
 
 ### 1.2 Decomp toolkit
 
@@ -87,13 +87,17 @@ The UDS dataset is comprised of three annotation layers built on English Web Tre
 
 1. syntactic graphs: gold standard [Universal Dependencies (UD)](https://universaldependencies.org/) parses of the EWT
 2. semantic graphs: predicate-argument structures extracted from the parses deterministically using PredPatt
-3. semantic types: predicates, arguments, and their reelationships from decompositional semantics aligned datasets 
+3. semantic types: predicates, arguments, and their relationships from decompositional semantics aligned datasets 
 
-Among the many, many things you can do with the decomp toolkit, you are able to get the semantic nodes of a sentence. These semantic nodes, more specifically, are either a predicate node or an argument node.
+Among the many, many things you can do with the Decomp toolkit, you are able to get the semantic nodes of a sentence. These semantic nodes, more specifically, are either a predicate node or an argument node.
 
-<figcaption align = "center"><b>Fig.2 - Predicates and arguments for sentence ewt-dev-539</b></figcaption>
+<figcaption align = "center"><b>Fig.2 - "try" constructions in terminal</b></figcaption>
+<img src="https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/visualizations/dev_sent-539.png" alt="image of development sentence 539: I tried to do it on the HRonline web-site, but the procedure is too complicated." width="400"/>
+
+<figcaption align = "center"><b>Fig.3 - Predicates and arguments for sentence ewt-dev-539</b></figcaption>
 <img src="https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/visualizations/predArg_dev-539.png" alt="Predicates and arguments for sentence ewt-dev-539" width="300"/>
 
+Development sentence 539 has three predicate nodes and five argument nodes. 
 
 
 ## 2 Data sourcing, cleaning, and what is of interest
@@ -114,18 +118,18 @@ There were many idiosyncrasies in the Hicks corpus that I had to keep in mind. M
 I needed to pick a specific [linguistic phenomenon](https://nbviewer.org/github/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/code_notebooks/childes_exploration.ipynb#5.-Linguistic-phenomenon-of-interest) to take back to the UDS framework, so I grepped my way through all the Hicks corpus files on the command line, as you do, to get a better sense of what was going on. I noticed that the code `$modv`, which stands for "modal verb" was present a lot in the coding tier.
 
 
-<figcaption align = "center"><b>Fig.3 - modv code in %cod tier</b></figcaption>
+<figcaption align = "center"><b>Fig.4 - modv code in %cod tier</b></figcaption>
 <img src="https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/visualizations/modv.png" alt="modv code in %cod tier" width="500"/>
 
 When we think of modals, we typically think of words like “can” “should” ”may” that signify a varying degree of ability, willingness, etc. to do undertake a certain action. The Hicks corpus distinguishes these, though, from modal verbs, and the sentences annotated with $modv almost always contain some form of “try to”. 
 
 
-<figcaption align = "center"><b>Fig.4 - "try" constructions in terminal</b></figcaption>
+<figcaption align = "center"><b>Fig.5 - "try" constructions in terminal</b></figcaption>
 <img src="https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/visualizations/try-terminal.png" alt="try constructions in terminal" width="600"/>
 
 "try" constructions are most likely so prevalent in the Hicks corpus because of the nature of the task (getting kids to talk about something they have just watched) and probably has something to do with the kids not wanting to say something actually happened with certainty because they only witnessed what happened in a video, not in real life. This phenomenon is probably highly affected by the narrative task and therefore it’s not really true spoken speech, however it still provides an interesting point of analysis because there are varying degrees to which the action being "tried" is actually undertaken or completed.
 
-<figcaption align = "center"><b>Fig.5 - formatted "try" constructions</b></figcaption>
+<figcaption align = "center"><b>Fig.6 - formatted "try" constructions</b></figcaption>
 <img src="https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/visualizations/try-formatted.png" alt="formatted try constructions" width="600"/>
 
 In this sentence above, we know, as humans, that the running action did occur, but maybe not fully. Even so, though the running past was ultimately unsuccessful, it did occur to some extent. How could the UDS framework apply to this phenomenon and how could computers potentially handle this?
@@ -148,7 +152,7 @@ I ended up analyzing "try" constructions, and I thought about them a bit in term
 I began by sifting through all the sentences in the dataset for the ones that contained the verb "try," and then further filtered those down to keep only the sentences that had "try" predicates with predicates dependent on them with the xcomp relation (see [this image of the CoNLL-U format](#6-extras) for a look at the dependencies). These sentences take the form of "try to...", but not "try and..." or "try OBJ".
 
 
-<figcaption align = "center"><b>Fig.6 - Chart showing the distribution of "try" forms in the specified sentences</b></figcaption>
+<figcaption align = "center"><b>Fig.7 - Chart showing the distribution of "try" forms in the specified sentences</b></figcaption>
 <img src="https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/visualizations/try-forms.png" alt="bar chart showing try form distribution" width="400" align="center"/>
 
 Above is the breakdown of "try" forms in the 157 sentences containing a "try" predicate and an xcomp relation dependent predicate. To see this distribution of forms was interesting, but I did not do anything further with it in my analysis.
@@ -217,5 +221,5 @@ Hicks, D. (1990). Kinds of texts: Narrative genre skills among children from two
 
 [CoNLL-U format](https://universaldependencies.org/format.html)
 
-<figcaption align = "center"><b>Fig.7 - CoNLL-U format for sentence ewt-dev-539</b></figcaption>
+<figcaption align = "center"><b>Fig.8 - CoNLL-U format for sentence ewt-dev-539</b></figcaption>
 <img src="https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/visualizations/conllu_dev-539.png" alt="CoNLL-U format for sentence ewt-dev-539" width="800"/>
