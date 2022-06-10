@@ -115,24 +115,24 @@ The Hicks Narrative Corpus is comprised of narratives by elementary-age children
 
 There were many idiosyncrasies in the Hicks corpus that I had to keep in mind. Many of the child utterances were missing a coding tier, and many [codes listed out](https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/resources/coding_scheme.md) in the research description were not present in any of the coding tiers. Additionally, the coding tier annotations did not line up with the tokens, so it was challenging to figure out to what the annotations were related. 
 
-I needed to pick a specific [linguistic phenomenon](https://nbviewer.org/github/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/code_notebooks/childes_exploration.ipynb#5.-Linguistic-phenomenon-of-interest) to take back to the UDS framework, so I grepped my way through all the Hicks corpus files on the command line, as you do, to get a better sense of what was going on. I noticed that the code `$modv`, which stands for "modal verb" was present a lot in the coding tier.
+I needed to pick a specific [linguistic phenomenon](https://nbviewer.org/github/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/code_notebooks/childes_exploration.ipynb#5.-Linguistic-phenomenon-of-interest) to take back to the UDS framework, so I grepped my way through all the Hicks corpus files on the command line, as you do, to get a better sense of what was going on. I noticed that the code `$modv`, which stands for "modal verb", was present a lot in the coding tier.
 
 
 <figcaption align = "center"><b>Fig.4 - modv code in %cod tier</b></figcaption>
 <img src="https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/visualizations/modv.png" alt="modv code in %cod tier" width="500"/>
 
-When we think of modals, we typically think of words like “can” “should” ”may” that signify a varying degree of ability, willingness, etc. to do undertake a certain action. The Hicks corpus distinguishes these, though, from modal verbs, and the sentences annotated with $modv almost always contain some form of “try to”. 
+When we think of modals, we typically think of words like “can” “should” ”may” that signify a varying degree of ability, willingness, etc. to do or undertake a certain action. The Hicks corpus distinguishes these, though, from modal verbs, and the sentences annotated with $modv almost always contain some form of “try to”. 
 
 
 <figcaption align = "center"><b>Fig.5 - "try" constructions in terminal</b></figcaption>
 <img src="https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/visualizations/try-terminal.png" alt="try constructions in terminal" width="600"/>
 
-"try" constructions are most likely so prevalent in the Hicks corpus because of the nature of the task (getting kids to talk about something they have just watched) and probably has something to do with the kids not wanting to say something actually happened with certainty because they only witnessed what happened in a video, not in real life. This phenomenon is probably highly affected by the narrative task and therefore it’s not really true spoken speech, however it still provides an interesting point of analysis because there are varying degrees to which the action being "tried" is actually undertaken or completed.
+"try" constructions are most likely so prevalent in the Hicks corpus because of the nature of the task (getting kids to talk about something they have just watched) and probably has something to do with the kids not wanting to say something actually happened with certainty because they only witnessed what happened in a video, not in real life. This phenomenon is probably highly affected by the narrative task, and therefore, it’s not really true spoken speech, however it still provides an interesting point of analysis because there are varying degrees to which the action being "tried" is actually undertaken or completed.
 
 <figcaption align = "center"><b>Fig.6 - formatted "try" constructions</b></figcaption>
 <img src="https://github.com/Data-Science-for-Linguists-2022/UDS-child-speech/blob/main/visualizations/try-formatted.png" alt="formatted try constructions" width="600"/>
 
-In this sentence above, we know, as humans, that the running action did occur, but maybe not fully. Even so, though the running past was ultimately unsuccessful, it did occur to some extent. How could the UDS framework apply to this phenomenon and how could computers potentially handle this?
+In this sentence above, we know, as humans, that the running action did occur to some extent, but maybe not to the fullest extent: a completed action. Even so, though the running past was ultimately unsuccessful, it did occur to some extent. How could the UDS framework apply to this phenomenon and how could computers potentially handle this?
 
 
 ## 3 Analysis
